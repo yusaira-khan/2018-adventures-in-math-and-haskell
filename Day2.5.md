@@ -8,6 +8,6 @@
 * The rest of 30 days of code is for java and c++ only.
 
 * Decided to look into the following:
- * Do 30 days of code (day 10) involving binary numbers using the format in 302 assignment 1.
- * Implement Matrix add and mul,print, switch,fromList,print with nested-List backend
- * think about implementing Finger Trees, AVL trees, red and black trees, B trees in haskell.
+  * Do 30 days of code (day 10) involving binary numbers using the format in 302 assignment 1.
+  * Implement Matrix add and mul,print, switch,fromList,print with nested-List backend
+  * think about implementing Finger Trees, AVL trees, red and black trees, B trees in haskell.
